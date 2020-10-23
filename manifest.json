@@ -1,0 +1,13 @@
+{
+  "main.css": "/main.c5644902.css",
+  "main.js": "/main.c56449021a0f5b7ab845.js",
+  "main.js.map": "/main.c56449021a0f5b7ab845.js.map",
+  "vendors~main.js": "/vendors~main.c56449021a0f5b7ab845.js",
+  "vendors~main.js.map": "/vendors~main.c56449021a0f5b7ab845.js.map",
+  "fonts/style.sass": "/fonts/kumbhsans-regular-webfont.woff2",
+  "index.html": "/index.html",
+  "service-worker.js": "/service-worker.js",
+  "service-worker.js.map": "/service-worker.js.map",
+  "workbox-d9851aed.js": "/workbox-d9851aed.js",
+  "workbox-d9851aed.js.map": "/workbox-d9851aed.js.map"
+}
